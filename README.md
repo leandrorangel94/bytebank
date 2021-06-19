@@ -8,8 +8,9 @@
 <a href="#licença-scroll">Licença</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 </p>
 
-
+<p align="center">
 Aplicação bytebank desenvolvida no primeiro curso da formação Angular da Alura.
+</p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/39461509/122656537-e0cbfe00-d131-11eb-9866-39e6176e961f.png">
