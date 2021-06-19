@@ -12,7 +12,7 @@
 Aplicação bytebank desenvolvida no primeiro curso da formação Angular da Alura.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39461509/120944076-fccea900-c708-11eb-8db1-0a1d791997fb.png">
+<img src="https://user-images.githubusercontent.com/39461509/122656537-e0cbfe00-d131-11eb-9866-39e6176e961f.png">
 </p>
 
 ## Tecnologias :rocket:
