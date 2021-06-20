@@ -11,7 +11,7 @@
 <p align="center">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leandrorangel94/bytebank?color=7159c1">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/leandrorangel94/bytebank?color=7159c1">
-    <img alt="GitHub" src="https://img.shields.io/github/license/leandrorangel94/bytebank?color=7159c1">
+    <img alt="GitHub" src="https://img.shields.io/github/license/leandrorangel94/bytebank?color=7159c1">&nbsp;&nbsp;
 </p>
 
 <blockquote align="center">
