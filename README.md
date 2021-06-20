@@ -1,11 +1,11 @@
 <h1 align="center">ByteBank</h1>
 
 <p align="center">
-<a href="#sobre-memo">Sobre</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-<a href="#tecnologias-rocket">Tecnologias</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-<a href="#como-usar-">Como Usar</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-<a href="#como-contribuir-">Como Contribuir</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-<a href="#licença-scroll">Licença</a>&nbsp;&nbsp;&nbsp;
+<a href="#memo-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#thinking-como-contribuir">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#scroll-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <blockquote align="center">
@@ -16,10 +16,10 @@ Aplicação bytebank desenvolvida no 1° curso da formação Angular da Alura.
 <img src="https://user-images.githubusercontent.com/39461509/122656537-e0cbfe00-d131-11eb-9866-39e6176e961f.png">
 </p>
 
-## Sobre :memo:
+## :memo: Sobre
 
 ByteBank é uma aplicação que permite adicionar transferências bancarias inserindo valor e conta de destino, e também permite  visualizar o extrato das transferências realizadas.
-## Tecnologias :rocket:
+## :rocket: Tecnologias
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -27,7 +27,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Angular](https://angular.io/)
 - [SCSS](https://sass-lang.com/documentation)
 
-## Como Usar :information_source:
+## :information_source: Como Usar
 
 Para clonar e rodar essa aplicação, você precisará do [Git](https://git-scm.com) e [Node.js](https://nodejs.org/pt-br/) instalados no seu computador. Depois, no seu terminal, faça:
 
@@ -48,14 +48,14 @@ $ json-server --watch dados/db.json
 $ ng serve
 ```
 
-## Como contribuir 🤔
+## :thinking: Como contribuir
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `git push origin minha-feature`.
 
-## Licença :scroll:
+## :scroll: Licença 
 
 > Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
