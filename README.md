@@ -9,7 +9,7 @@
 </p>
 
 <blockquote align="center">
-Aplicação bytebank desenvolvida no 1° curso da formação Angular da Alura.
+&nbsp; Aplicação bytebank desenvolvida no 1° curso da formação Angular da Alura.
 </blockquote>
 
 <p align="center">
